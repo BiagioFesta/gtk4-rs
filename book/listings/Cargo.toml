@@ -224,6 +224,10 @@ path = "main_event_loop/8/main.rs"
 name = "main_event_loop_9"
 path = "main_event_loop/9/main.rs"
 
+[[bin]]
+name = "main_event_loop_10"
+path = "main_event_loop/10/main.rs"
+
 # saving_window_state
 [[bin]]
 name = "saving_window_state_1"
